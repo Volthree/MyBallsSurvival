@@ -8,7 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c91743d-9cef-4dbd-bb2a-a86c8f525fe3" name="Changes" comment="Ref_Q">
-      <change afterPath="$PROJECT_DIR$/VelikolepniyTemplateV1.0.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,15 +78,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="VelikolepniyTemplate.MainTest" />
-      <module name="VelikolepniyTemplateV1.0" />
-      <option name="PROGRAM_PARAMETERS" value="E:\javafx-sdk-20" />
-      <option name="VM_PARAMETERS" value="--module-path &quot;E:\javafx-sdk-20\lib&quot; --add-modules javafx.controls,javafx.fxml,javafx.graphics" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.MainTest" />
@@ -150,7 +141,28 @@
       <option name="project" value="LOCAL" />
       <updated>1683411407757</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Ref_Q">
+      <created>1683418976684</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683418976684</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Ref_Q">
+      <created>1683419090057</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1683419090057</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Ref_Q">
+      <created>1683419187138</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683419187138</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

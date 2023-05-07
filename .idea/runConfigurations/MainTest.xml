@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MainTest" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="VelikolepniyTemplate.MainTest" />
+    <module name="VelikolepniyTemplateV1.0" />
+    <option name="PROGRAM_PARAMETERS" value="E:\javafx-sdk-20" />
+    <option name="VM_PARAMETERS" value="--module-path &quot;E:\javafx-sdk-20\lib&quot; --add-modules javafx.controls,javafx.fxml,javafx.graphics" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
