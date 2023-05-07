@@ -31,7 +31,7 @@ There is a few commands to manage your balls :
 ***С+*** : Order to mine minerals;  
 ***X+*** : Order to take GEM;  
 ***W+*** : Order to mine trees;  
-***S+*** : Order to stop surrent order(became uneployed);  
+***S+*** : Order to stop сurrent order(became uneployed);  
 ***D+*** : Order to dig makred cells(***F--***);   
 ***G+*** : Order to grow earth makred cells(***H--***);   
 ***R+*** : Crear all marked cells;  
