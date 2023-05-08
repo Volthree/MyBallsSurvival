@@ -53,18 +53,28 @@ There is a few commands to manage your balls :
 
 ***R+*** : Crear all marked cells;  
 
-Basic Mechanics:
+# Basic Mechanics:
 Generated map have three parameters.
 1) Map size - standard size 712x712, but you can change it in any size which multiple Cell size.  
 2) Cell size - standard size 8, but you can change in any size multiple 2.  
 3) Diamond-square algorithm - you can change the area of water/earth/mountains.  
 
-Generated map has array of cells.
+Generated map is an two-dimensional array of cells.
 Every cell has a few parameters:
 1) Height. Height can value between 0...12. 0...5 - water, 6 - sand, 7...9 - green, 10...12 - mountains. Every cell has color depends height.  
 2) Contain tree. Tree can grow only on green cell(7...9).
 3) Contain crystal. Crystal exists only on cells with height more then 6. The more height, the more chance from cell to contain crystal. Crystal has random deep between height and zero. Cell contain crystal can't contain gem.  
 4) Contain gem. Only one gem generates on a map. Gem cant generate on water and has depp between height cell and zero. Cell contain gem can't contain crystal.  
+
+Balls:  
+Balls can't exist in water, they go around the water. If ball touch water he die.  
+
+Filling water:  
+Every cell with height lower then 6 and has water around itself will become a water cell.  
+
+Digging:  
+Every ball with complete(***D+***) has digged groud in 3 points. This  height value of current cell become lover on 3(if > 0). Ball can find crystal or gem if they height in ground became higher then digged.  Exploted bomb(***B-***) digged in sphere wich radius 5 cells.  Enemy balls creates exploy sphere wich radius 3 cells when touch nearest ball.  
+
 
 Enjoy!
 
