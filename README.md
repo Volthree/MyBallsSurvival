@@ -79,6 +79,9 @@ Enemy hole:
 In random time in random place appears hole, wich generates enemy units. They walking an seek your units to explode.  
 ![Hole](ScreenshotsForReadme/Hole.png)  
 
+Health:
+All your units has his own HP. If unit come far away from main base, he will loose 1 HP point every iteration. If unit is near main base, he regen max his HP. If HP = 0 unit die.   
+![HP](ScreenshotsForReadme/Health.png)  
 
 Enjoy!
 
