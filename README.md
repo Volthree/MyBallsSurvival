@@ -73,7 +73,11 @@ Filling water:
 Every cell with height lower then 6 and has water around itself will become a water cell.  
 
 Digging:  
-Every ball with complete(***D+***) has digged groud in 3 points. This  height value of current cell become lover on 3(if > 0). Ball can find crystal or gem if they height in ground became higher then digged.  Exploted bomb(***B-***) digged in sphere wich radius 5 cells.  Enemy balls creates exploy sphere wich radius 3 cells when touch nearest ball.  
+Every ball with complete(***D+***) has digged groud in 3 points. This  height value of current cell become lover on 3(if > 0). Ball can find crystal or gem if they height in ground became higher then digged.  Exploted bomb(***B-***) digged in sphere wich radius 5 cells.  Enemy balls creates exploy sphere wich radius 3 cells when touch nearest ball. 
+
+Enemy hole:  
+In random time in random place appears hole, wich generates enemy units. They walking an seek your units to explode.  
+![Hole](ScreenshotsForReadme/Hole.png)  
 
 
 Enjoy!
