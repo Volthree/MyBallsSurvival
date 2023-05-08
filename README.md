@@ -23,15 +23,28 @@ There is a few commands to manage your balls :
 ***Q-*** : Move furthest unit to current point;  
 ***A-*** : Move nearest unit to current point;  
 ***B-*** : Move nearest unit to place bomp in current point;  
-***E-*** : Move nearest unit to build sensor in current point;  
+![Bomb](ScreenshotsForReadme/PlaceBomb.png)  
+
+***E-*** : Move nearest unit to build sensor in current point;    
+![Sensor](ScreenshotsForReadme/BuildSensor.png)  
 
 ***F--*** : Mark cells for order to dig (***D+***);  
+![Dig](ScreenshotsForReadme/DrawDig.png)  
+
 ***H--*** : Mark cells for order to grow earth(***G+***);  
+![Grow](ScreenshotsForReadme/GrowEarthOrder.png)  
 
 ***С+*** : Order to mine minerals;  
+![Crystal](ScreenshotsForReadme/TakeCrystal.png)  
+
 ***X+*** : Order to take GEM;  
+![Gem](ScreenshotsForReadme/FoundedGEM.png)  
+
 ***W+*** : Order to mine trees;  
+![Take Wood](ScreenshotsForReadme/TakeWood.png)  
+
 ***S+*** : Order to stop сurrent order(became uneployed);  
+
 ***D+*** : Order to dig makred cells(***F--***);   
 ***G+*** : Order to grow earth makred cells(***H--***);   
 ***R+*** : Crear all marked cells;  
