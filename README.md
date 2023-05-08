@@ -93,7 +93,7 @@ All your units has his own HP. If unit come far away from main base, he will loo
 5) In Run/Debug Configurations window choise Application>MainTest.  
 6) You will see a window like this  
 ![Add](ScreenshotsForReadme/AddModule.png)  
-8) Write your module path from 2).
+8) Write your module path from 2) and repeat --add-modules javafx...
 
 Enjoy!
 
