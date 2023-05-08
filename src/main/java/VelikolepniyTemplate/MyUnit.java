@@ -26,7 +26,7 @@ public class MyUnit {
     public MyUnit(Point position, int status) {
         this.position = position;
         this.status = status;
-        this.unitHP = 500;
+        this.unitHP = 100;
         this.imageHP = RenderHPBar.getImageViewHPB8();
         this.imageUnit = RenderBalls.getImageViewBallWhite();
         this.setStatus(status);

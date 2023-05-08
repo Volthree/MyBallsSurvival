@@ -295,7 +295,7 @@ public class ActionInThread {
                 && CreatingMap.posCCx + 7 >= tob.getPosition().x
                 && CreatingMap.posCCy - 3 <= tob.getPosition().y
                 && CreatingMap.posCCy + 7 >= tob.getPosition().y) {
-            tob.setUnitHP(2000);
+            tob.setUnitHP(100);
         } else tob.setUnitHP(tob.getUnitHP() - 1);
     }
 
