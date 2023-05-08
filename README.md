@@ -58,6 +58,7 @@ Generated map have three parameters.
 1) Map size - standard size 712x712, but you can change it in any size which multiple Cell size.  
 2) Cell size - standard size 8, but you can change in any size multiple 2.  
 3) Diamond-square algorithm - you can change the area of water/earth/mountains.  
+4) Game speed - every interval of time all map units may change position, HP-points, status. You can make gameplay slower of faster.
 
 Generated map is an two-dimensional array of cells.
 Every cell has a few parameters:
