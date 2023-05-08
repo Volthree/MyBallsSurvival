@@ -95,6 +95,11 @@ All your units has his own HP. If unit come far away from main base, he will loo
 ![Add](ScreenshotsForReadme/AddModule.png)  
 8) Write your module path from 2) and repeat --add-modules javafx...
 
+--module-path
+"E:\javafx-sdk-20\lib"
+--add-modules
+javafx.controls,javafx.fxml,javafx.graphics
+
 Enjoy!
 
 
