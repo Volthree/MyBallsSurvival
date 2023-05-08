@@ -84,6 +84,17 @@ Health:
 All your units has his own HP. If unit come far away from main base, he will loose 1 HP point every iteration. If unit is near main base, he regen max his HP. If HP = 0 unit die.   
 ![HP](ScreenshotsForReadme/Health.png)  
 
+# How to install JavaFX for this project.
+
+1) Download "javafx-sdk 20.." from this official page JavaFX(Watch your OS). https://gluonhq.com/products/javafx/  
+2) Extract downloaded archive in convenient directory.  
+3) Open in IDE this game project.
+4) Run>Edit configurations.  
+5) In Run/Debug Configurations window choise Application>MainTest.  
+6) You will see a window like this  
+![Add](ScreenshotsForReadme/AddModule.png)  
+8) Write your module path from 2).
+
 Enjoy!
 
 
