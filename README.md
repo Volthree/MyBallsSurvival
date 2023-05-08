@@ -46,7 +46,11 @@ There is a few commands to manage your balls :
 ***S+*** : Order to stop сurrent order(became uneployed);  
 
 ***D+*** : Order to dig makred cells(***F--***);   
+![Dig proc](ScreenshotsForReadme/DiggingProcess.png)  
+
 ***G+*** : Order to grow earth makred cells(***H--***);   
+![Growing](ScreenshotsForReadme/GrowedEarth.png)  
+
 ***R+*** : Crear all marked cells;  
 
 Basic Mechanics:
