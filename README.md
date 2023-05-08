@@ -3,8 +3,8 @@ Hi, this is my simple game, named "My Balls Survival"!
 The action take place on a random map.
 You have main base and 5 balls, which can dig, grow earth, mine wood, minerals and build sensors!
 The main quest is to find GEM and bring it to base.
-In random time the pit appears and generates enemy dark balls, they disturb you.
-
+In random time the pit appears and generates enemy dark balls, they disturb you.  
+![Gen](ScreenshotsForReadme/Generation.png)  
 You have three management styles:
 1) Action key and action order(SPACE), to order choose action for one unemployed ball. This ball on one's own will find nearest target to do action.  
   Press the desired bottom an then press "space". You can press spase many time or hold space to order the same command for next unemployed ball.   
@@ -36,6 +36,11 @@ There is a few commands to manage your balls :
 ***G+*** : Order to grow earth makred cells(***H--***);   
 ***R+*** : Crear all marked cells;  
 
+Basic Mechanics:
+Generated map have three parameters.
+1) Map size - standard size 712x712, but you can change it in any size which multiple Cell size.  
+2) Cell size - standard size 8, but you can change in any size multimle 2.  
+3) Diamond-square algorithm - you can change the area of water/earth/mountains.  
 
 Enjoy!
 
