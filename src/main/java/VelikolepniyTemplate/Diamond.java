@@ -19,7 +19,7 @@ public class Diamond {
             double rt = array[(int) xStartDia][(int) ycMinusDia];
             double lt = array[(int) xStartDia][(int) ycPlusDia];
             double lb = array[(int) xcMinusDia][(int) yStartDia];
-            hDia = ((rb+lt+rt+lb)/4)+ ((Math.random()*10)-6 )/score*2.5;
+            hDia = ((rb+lt+rt+lb)/4)+ ((Math.random()*10)-7 )/score*3;
             array[(int) xStartDia][(int) yStartDia] = hDia;
         }
     }
